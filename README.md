@@ -18,4 +18,4 @@ Uploading katas to GitHub motivates me to revisit and refine solutions with new 
 
 ## Lessons Learned:
 
-These challenges sharpened my problem-solving and reinforce continuous learning!
+These challenges help me learn and improve with every solution.
